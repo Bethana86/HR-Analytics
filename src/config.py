@@ -29,10 +29,10 @@ class __AppConfig:
 
     # get current working directory
     cwd = os.getcwd()
-    # banner_image = f"{cwd}/assets/hr-banner.png"
-    # icon = f"{cwd}/assets/hr-banner.png"
-    banner_image = f"{cwd}/assets/riots.jpg"
-    icon = f"{cwd}/assets/riots.jp"
+    banner_image = f"{cwd}/assets/hr-banner.png"
+    icon = f"{cwd}/assets/hr-banner.png"
+    # banner_image = f"{cwd}/assets/riots.jpg"
+    # icon = f"{cwd}/assets/riots.jp"
     app_title = "Demo - HR Analytics"
     data_file = f"{cwd}/input_data/raw_hr_data.csv"
     sidebar_state = "expanded"

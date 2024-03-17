@@ -33,7 +33,7 @@ class __AppConfig:
     # icon = f"{cwd}/assets/hr-banner.png"
     banner_image = f"{cwd}/assets/riots.jpg"
     icon = f"{cwd}/assets/riots.jp"
-    app_title = "Sample HR Dashboard"
+    app_title = "Demo - HR Analytics"
     data_file = f"{cwd}/input_data/raw_hr_data.csv"
     sidebar_state = "expanded"
     layout = "wide"
